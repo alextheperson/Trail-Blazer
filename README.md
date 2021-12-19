@@ -1,2 +1,2 @@
-# PyBricks-Library
+# Trail Blazer
 Redifining PyBricks
